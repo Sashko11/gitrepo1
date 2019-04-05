@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Zadacha {
     public static void main(String[] args) {
 
+         //comment
         Scanner scanner = new Scanner(System.in);
         int b = 0, c = 0;
         int mass [] = new int[4];
